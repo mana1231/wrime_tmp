@@ -1,0 +1,1 @@
+dataのディレクトリにtrain.jsonとvalid.jsonを入れてから実行すること
